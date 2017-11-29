@@ -9,8 +9,8 @@ Processing functions
 - Normalization
 - Cleaning
 
-Import of the dataframe
-Split in train set / test set
-Meta-data functions
-Building of the Meta-Data dataframe
+Import of the dataframe<br>
+Split in train set / test set<br>
+Meta-data functions<br>
+Building of the Meta-Data dataframe<br>
 
